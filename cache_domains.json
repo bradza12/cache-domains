@@ -121,6 +121,11 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		},
+        {
+			"name": "armareforger",
+			"description": "CDN for armareforger",
+			"domain_files": ["armareforger.txt"]
 		}
 	]
 }

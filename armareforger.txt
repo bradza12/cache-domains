@@ -13,3 +13,6 @@ api-ar-game.bistudio.com
 cms-cdn.bistudio.com
 kv601.prod.do.dsp.mp.microsoft.com
 e11290.dspg.akamaiedge.net
+162.159.140.38
+172.66.0.38
+84.17.50.8

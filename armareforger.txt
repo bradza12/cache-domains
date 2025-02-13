@@ -1,0 +1,6 @@
+cdn.armafiles.com
+reforger.armaplatform.com
+reforger.armaplatform.com/workshop
+*.armaplatform.com
+api-ar-workshop.bistudio.com
+workshop.bistudio.com

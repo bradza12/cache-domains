@@ -1,8 +1,15 @@
 cdn.armafiles.com
 reforger.armaplatform.com
 reforger.armaplatform.com/workshop
+reforger.armaplatform.com/*
 *.armaplatform.com
 api-ar-workshop.bistudio.com
 workshop.bistudio.com
 www.bohemia.net
 *.bohemia.net
+api-ar-gc.bistudio.com
+ar-api-origin.flame-matchmaking.bistudio.com.cdn.cloudflare.net
+api-ar-game.bistudio.com
+cms-cdn.bistudio.com
+kv601.prod.do.dsp.mp.microsoft.com
+e11290.dspg.akamaiedge.net
